@@ -1,8 +1,9 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/WhiptvLatino/whiptvlatino/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bienvienido a la página oficial de WHIPTV LATINO
+WHIPTV LATINO Es una aplicación para cualquier smart tv que sea de la marca samsung* visualiza contenidos como películas, canales de tv, series y más, la app es totalmente gratis!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Descarga la app ahora!!](http://whiptv.esy.es/Descargas/)
 
 ### Markdown
 
