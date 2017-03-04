@@ -1,4 +1,5 @@
 ## Bienvenido a WHIPTV LATINO
+Selecciona una página:D
 
 ● [Whiptv Latino Web](http://ouo.io/HVAo10)
 
@@ -8,9 +9,7 @@
 
 ● [Sube tu lista a la app 2](http://ouo.io/cbn9FY)
 
-● [Dona a la app! (USD, Internacional)](http://ouo.io/4wS21Q)
-
-● [Dona a la app! (MXN, México)](http://ouo.io/8ygGQ)
+● [Donaciones](https://whiptvlatino.github.io/Donaciones/)
 
 ● [Síguenos en Facebook!](https://www.facebook.com/whiptvlat)
 
